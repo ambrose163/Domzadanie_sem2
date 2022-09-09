@@ -10,7 +10,7 @@ while (true) // Зацикливание программы
         do
         {
 
-            num = Console.ReadLine();
+            num = Console.ReadLine()!;
             if (num == "q")
             {
 
